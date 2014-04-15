@@ -32,6 +32,13 @@ Give 1 for installation of hadoop hive hbase pig
 
 If you give 0 Installation will finced with out install hadoop hbase hive pig
 
+Enter 0 for skip install of auto strat hadoop when start the michen::
+Enter 1 for install of auto strat hadoop when start the michen::
+
+In this time if you give 0 it will set environment only
+If you give 1 it will set environment and set auto runthe hadoop and hbase 
+when the michen start.
+
 Thanks
 Anthoni
 
